@@ -59,16 +59,26 @@ C++11
 ---------
 
 瞎J8吹牛逼的QQ群:546110133(不卖外挂 买挂卖挂的你给老子滚!)
+
 my steam profile: https://steamcommunity.com/profiles/76561198224009192/
+
 my github profile: https://github.com/DragonQuestHero
+
 wanna more?maybe u can see this: https://github.com/DragonQuestHero/awesome-windows-security-development
 
 
 have order problem?
+
 commit issuse
+
 or
+
 send email to processhacker@163.com
+
 when u commit issuse.plz use eng.thank u!
+
 and last
+
 pull request?of course.very fucking welcome!
+
 最后.加藤惠是我老婆,不接受反驳
