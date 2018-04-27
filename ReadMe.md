@@ -24,7 +24,7 @@ allright.let stop bullshit.just do it
 1. ready PAK file.
 2. create win mklink. (mklink K:/Game/Steam/blablabla/Paks/xxx.pak C:/1.pak) this step is necessary.if u dont want gotta 100 years ban
 3. load start driver
-4. delete u deriver.just see Kernel_Force_Delete.cc
+4. delete u deriver file.just see Kernel_Force_Delete.cc
 5. use MiProcessLoaderEntry hidden u driver.ok.now ,who are u?i dont know.i guess BE too
 6. when u eject from aircraft.hidden u pak file.look of MiniFilter-Monitor.cc
 7. allright.enjoy killing.
@@ -44,7 +44,7 @@ before.nope.after.no!.never!
 
 1.i dont know why hidden file can bypass BE.but it's work
 
-2 & 3. because BE serach memory.it's really.listen.if u dont want banned.just do it.
+2 & 3. because BE serach memory.upload u driver file.it's really.listen.if u dont want banned.just do it.
 
 ##### how to get PAK file
 
@@ -60,7 +60,7 @@ welcome.but only ENG JP CN language speaker and legit player.(im noob)
 
 sorry .i cant give u.
 
-###Reference:
+### Reference:
 
 1. https://github.com/JKornev/hidden
 
@@ -69,7 +69,8 @@ sorry .i cant give u.
 3. https://github.com/icewall/ForceDelete
 
 
-###Bulid:
+### Bulid:
+
 VS2013
 
 WDK8.1
