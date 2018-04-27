@@ -10,27 +10,27 @@
 
 Sup all guys.
 
-Welcome my battleship .Im captain of this ship.
+Welcome to my battleship .Im captain of this ship.
 
 sorry,i take Readme wrong.
 
 My friend's gotta a girlfriend and he hates that bitch...
 
-nonono.oh.i gotta .yeah,that is!
+no no no.not this...oh.i got .yeah,thats right!
 
 
 I know how to bypass BE for change PAK file.it's working now(2018/4/27)
 
 if u can change(using?i dont know) PAK file.u can do evething u wanna.
 
-but.problem is BE.it's fucking stay here.and fucking tell u.u fucking gotta 100 years banned.
+but.problem is BE.it's fucking stay here.and fucking tell u.u fucking get 100 years banned.
 
-wow. awesome.so maybe u can save u id .and keep play pubg of after 100 years.sound like very fucking good
+wow. awesome.so maybe u can save u id .and keep play pubg after 100 years.sound like very fucking good
 
-allright.let stop bullshit.just do it
+all right.lets stop bullshit.just do it
 
 1. ready PAK file.
-2. create win mklink. (mklink K:/Game/Steam/blablabla/Paks/xxx.pak C:/1.pak) this step is necessary.if u dont want gotta 100 years ban
+2. create win mklink. (mklink K:/Game/Steam/blablabla/Paks/xxx.pak C:/1.pak) this step is necessary.if u dont want got 100 years ban
 3. load start driver
 4. delete u deriver file.just see Kernel_Force_Delete.cc
 5. use MiProcessLoaderEntry hidden u driver. look at IO_Control.cc .ok.now ,who are u?i dont know.i guess BE too
