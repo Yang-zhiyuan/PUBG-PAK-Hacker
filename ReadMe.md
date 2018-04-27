@@ -25,7 +25,7 @@ if u can change(using?i dont know) PAK file.u can do evething u wanna.
 
 but.problem is BE.it's fucking stay here.and fucking tell u.u fucking get 100 years banned.
 
-wow. awesome.so maybe u can save u id .and keep play pubg after 100 years.sound like very fucking good
+wow. awesome.so maybe u can fucking save u id .and keep play fucking pubg after 100 years.sound like very fucking good
 
 all right.lets stop bullshit.just do it
 
@@ -35,7 +35,7 @@ all right.lets stop bullshit.just do it
 4. delete u deriver file.just see Kernel_Force_Delete.cc
 5. use MiProcessLoaderEntry hidden u driver. look at IO_Control.cc .ok.now ,who are u?i dont know.i guess BE too
 6. when u eject from aircraft.hidden u pak file.look of MiniFilter-Monitor.cc
-7. allright.enjoy killing.
+7. all right.enjoy killing.
 
 ## Q & A
 
@@ -93,6 +93,8 @@ my steam profile: https://steamcommunity.com/profiles/76561198224009192/
 
 my github profile: https://github.com/DragonQuestHero
 
+my gitee profile: https://gitee.com/ockdieso
+
 wanna more?maybe u can see this: https://github.com/DragonQuestHero/awesome-windows-security-development
 
 
@@ -104,10 +106,10 @@ or
 
 send email to processhacker@163.com
 
-when u commit issuse.plz use eng.thank u!
+when u commit issuse.plz use eng.thank u!(only github.gitee no need)
 
 and last
 
-pull request?of course.very fucking welcome!
+pull request?of course.welcome!
 
 最后.加藤惠是我老婆,不接受反驳
