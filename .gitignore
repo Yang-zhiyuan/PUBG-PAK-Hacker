@@ -243,3 +243,5 @@ ModelManifest.xml
 .fake/
 /Kernel-Minifilter/VMProtectDDK.h
 /Kernel-Minifilter/VMProtectDDK64.lib
+/PUBG-PAK-Hacker/VMProtectDDK.h
+/PUBG-PAK-Hacker/VMProtectDDK64.lib
