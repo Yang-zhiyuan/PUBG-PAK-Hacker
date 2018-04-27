@@ -1,6 +1,6 @@
 # PUBG-PAK-Hacker
 
-Usp all guys.
+Sup all guys.
 
 Welcome my battleship .Im captain of this ship.
 
