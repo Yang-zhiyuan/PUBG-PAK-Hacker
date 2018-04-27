@@ -33,7 +33,7 @@ allright.let stop bullshit.just do it
 2. create win mklink. (mklink K:/Game/Steam/blablabla/Paks/xxx.pak C:/1.pak) this step is necessary.if u dont want gotta 100 years ban
 3. load start driver
 4. delete u deriver file.just see Kernel_Force_Delete.cc
-5. use MiProcessLoaderEntry hidden u driver.ok.now ,who are u?i dont know.i guess BE too
+5. use MiProcessLoaderEntry hidden u driver. look at IO_Control.cc .ok.now ,who are u?i dont know.i guess BE too
 6. when u eject from aircraft.hidden u pak file.look of MiniFilter-Monitor.cc
 7. allright.enjoy killing.
 
