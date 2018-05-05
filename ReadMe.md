@@ -7,6 +7,12 @@
 	<br>
 </h1>
 
+<h1 align="center">
+	<img src="1.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+
 
 Sup all guys.
 
@@ -19,7 +25,7 @@ My friend's gotta a girlfriend and he hates that bitch...
 no no no.not this...oh.i got .yeah,thats right!
 
 
-I know how to bypass BE for change PAK file.it's working now(2018/4/27)
+I know how to bypass BE for change PAK file.it's working now(2018/4/27)(2018/5/5)
 
 if u can change(using?i dont know) PAK file.u can do evething u wanna.
 
