@@ -110,7 +110,7 @@ commit issuse
 
 or
 
-send email to processhacker@163.com
+send email to DragonQuestMaou@gmail.com
 
 when u commit issuse.plz use eng.thank u!(only github.gitee no need)
 
