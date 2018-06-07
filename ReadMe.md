@@ -13,25 +13,14 @@
 	<br>
 </h1>
 
+This project can not work now.(18/6/7)
 
 Sup all guys.
-
-Welcome to my battleship .Im captain of this ship.
-
-sorry,i take Readme wrong.
-
-My friend's gotta a girlfriend and he hates that bitch...
-
-no no no.not this...oh.i got .yeah,thats right!
 
 
 I know how to bypass BE for change PAK file.it's working now(2018/4/27)(2018/5/5)
 
 if u can change(using?i dont know) PAK file.u can do evething u wanna.
-
-but.problem is BE.it's fucking stay here.and fucking tell u.u fucking get 100 years banned.
-
-wow. awesome.so maybe u can fucking save u id .and keep play fucking pubg after 100 years.sound like very fucking good
 
 all right.lets stop bullshit.just do it
 
@@ -104,18 +93,4 @@ my gitee profile: https://gitee.com/ockdieso
 wanna more?maybe u can see this: https://github.com/DragonQuestHero/awesome-windows-security-development
 
 
-have order problem?
 
-commit issuse
-
-or
-
-send email to DragonQuestMaou@gmail.com
-
-when u commit issuse.plz use eng.thank u!(only github.gitee no need)
-
-and last
-
-pull request?of course.welcome!
-
-最后.加藤惠是我老婆,不接受反驳
