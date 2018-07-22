@@ -13,6 +13,10 @@
 	<br>
 </h1>
 
+# Update-2018/7/23
+
+New bypass,it's works
+
 This project can not work now.(18/6/7)
 
 Sup all guys.
@@ -82,7 +86,7 @@ C++11
 
 ---------
 
-瞎J8吹牛逼的QQ群:546110133(不卖外挂 买挂卖挂的你给老子滚!)
+扯淡群:546110133
 
 my steam profile: https://steamcommunity.com/profiles/76561198224009192/
 
