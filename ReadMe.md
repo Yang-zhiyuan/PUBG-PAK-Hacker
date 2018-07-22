@@ -25,6 +25,12 @@
 </h1>
 
 <h1 align="center">
+	<img src="6.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+
+<h1 align="center">
 	<img src="psb.jpg" alt="son of bitch">
 	<br>
 	<br>
@@ -98,7 +104,7 @@ C++11
 
 ---------
 
-³¶µ­Èº:546110133
+Èº:546110133
 
 my steam profile: https://steamcommunity.com/profiles/76561198224009192/
 
