@@ -66,9 +66,6 @@ all right.lets stop bullshit.just do it
  serach all kernel mode memory.ok,im joke,i take the address from user mode
  
 
-##### are u cheating in pubg game?
-
-before.nope.after.no!.never!
 
 ##### why we should hidden file and deriver.and delete file
 
@@ -81,14 +78,6 @@ before.nope.after.no!.never!
 from here: https://www.unknowncheats.me/forum/index.php
 
 and i just know here.i dont know how to decrypt
-
-##### wanna play with me?
-
-welcome.but only ENG JP CN language speaker and legit player.(im noob)
-
-##### where is complete code?
-
-sorry .i cant give u.
 
 ### Reference:
 
