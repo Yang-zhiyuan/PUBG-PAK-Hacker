@@ -1,74 +1,74 @@
 # PUBG-PAK-Hacker
 
 <h1 align="center">
-	<img src="7.jpg" alt="son of bitch">
+	<img src="7.png" alt="">
 	<br>
 	<br>
 </h1>
 <h1 align="center">
-	<img src="8.jpg" alt="son of bitch">
+	<img src="8.png" alt="">
 	<br>
 	<br>
 </h1>
 <h1 align="center">
-	<img src="9.jpg" alt="son of bitch">
+	<img src="9.png" alt="">
 	<br>
 	<br>
 </h1>
 <h1 align="center">
-	<img src="10.jpg" alt="son of bitch">
+	<img src="10.png" alt="">
 	<br>
 	<br>
 </h1>
 <h1 align="center">
-	<img src="11.jpg" alt="son of bitch">
+	<img src="11.png" alt="">
 	<br>
 	<br>
 </h1>
 <h1 align="center">
-	<img src="12.jpg" alt="son of bitch">
-	<br>
-	<br>
-</h1>
-
-<h1 align="center">
-	<img src="2.png" alt="son of bitch">
+	<img src="12.png" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="3.png" alt="son of bitch">
+	<img src="2.png" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="4.png" alt="son of bitch">
+	<img src="3.png" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="5.jpg" alt="son of bitch">
+	<img src="4.png" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="6.jpg" alt="son of bitch">
+	<img src="5.jpg" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="psb.jpg" alt="son of bitch">
+	<img src="6.jpg" alt="">
 	<br>
 	<br>
 </h1>
 
 <h1 align="center">
-	<img src="1.jpg" alt="son of bitch">
+	<img src="psb.jpg" alt="">
+	<br>
+	<br>
+</h1>
+
+<h1 align="center">
+	<img src="1.jpg" alt="">
 	<br>
 	<br>
 </h1>
