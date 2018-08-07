@@ -1,6 +1,37 @@
 # PUBG-PAK-Hacker
 
 <h1 align="center">
+	<img src="7.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+<h1 align="center">
+	<img src="8.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+<h1 align="center">
+	<img src="9.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+<h1 align="center">
+	<img src="10.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+<h1 align="center">
+	<img src="11.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+<h1 align="center">
+	<img src="12.jpg" alt="son of bitch">
+	<br>
+	<br>
+</h1>
+
+<h1 align="center">
 	<img src="2.png" alt="son of bitch">
 	<br>
 	<br>
